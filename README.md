@@ -20,6 +20,10 @@ To disable and remove the Hide SKU Subscriptions plugin, simply follow the steps
 ## License
 Please review the [LICENSE](LICENSE) file located in the repo.
 
+## Changes
+### v1.0 n(__1/16/2018__)
+- Initial release.
+
 ## Credits
 The Hide SKU Subscriptions plugin was written by Anthony Iacono.
 
