@@ -1,5 +1,5 @@
 # Hide SKU Subscriptions
-WooCommerce Subscriptions plugin that allows hiding of SKU number of subscription-based product pages.
+[WooCommerce Subscriptions](https://woocommerce.com/products/woocommerce-subscriptions/) plugin that allows hiding of SKU number of subscription-based product pages.
 
 ## Contents
 
@@ -12,7 +12,7 @@ The Hide SKU Subscriptions plugin includes the following files:
 * Removal of the SKU number on subscription-based product pages.
 
 ## Installation
-The Hide SKU Subscriptions plugin contents should be put in the [Wordpress plugins](https://codex.wordpress.org/Writing_a_Plugin#Names.2C_Files.2C_and_Locations) directory inside a directory named `hide-sku-subscriptions`. Follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation) to continue installing and activating the plugin.
+The Hide SKU Subscriptions plugin contents should be put in the [WordPress plugins](https://codex.wordpress.org/Writing_a_Plugin#Names.2C_Files.2C_and_Locations) directory inside a directory named `hide-sku-subscriptions`. Follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation) to continue installing and activating the plugin.
 
 ## Removal
 To disable and remove the Hide SKU Subscriptions plugin, simply follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Uninstalling_Plugins), and then delete the `hide-sku-subscriptions` directory and all of it's contents.
