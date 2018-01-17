@@ -1,7 +1,9 @@
 <?php
 /*
 Plugin Name: Hide SKU Subscriptions
+Plugin URI: https://github.com/YoursLtd/hide-sku-subscriptions
 Author: JointByte - Anthony Iacono
+Author URI: http://yoursltd.com/
 Version: 1.0
 Text Domain: hide-sku-subscriptions
 */
